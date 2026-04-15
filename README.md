@@ -21,6 +21,8 @@ OUTPUT Folder
 
 ## References
 [1] Visual Geometry Group, University of Oxford, “102 Category Flower Dataset,” 2008. [Online]. Available: https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html.  [Accessed: Apr. 1, 2026].
+
 [2] J. Hu, “Flower Pictures Recognition Based on the Advanced Convolutional Neural Network with Oxford Flowers 102 Dataset,” Procedia Computer Science, 2024. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S1877050924006768.  [Accessed: Apr. 1, 2026].
+
 [3] M.-E. Nilsback and A. Zisserman, “Automated Flower Classification over a Large Number of Classes,” 2008. [Online]. Available: https://www.robots.ox.ac.uk/~vgg/publications/2008/Nilsback08/.  [Accessed: Apr. 1, 2026].
 
