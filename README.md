@@ -3,15 +3,15 @@
 - Google Colab
 
 ### Required Python Packages
-- - `torch`
-- `torchvision`
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `scikit-learn`
-- `Pillow`
-- `os`
-- `pathlib`
+- torch
+- torchvision
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- Pillow
+- os
+- pathlib
 
 ## Section 2: Map of Documentation
 DATA Folder
