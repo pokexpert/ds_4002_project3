@@ -3,13 +3,21 @@
 - Google Colab
 
 ### Required Python Packages
--
+- - `torch`
+- `torchvision`
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `scikit-learn`
+- `Pillow`
+- `os`
+- `pathlib`
 
 ## Section 2: Map of Documentation
 DATA Folder
 
+- dataset link - link to the website from which our dataset can be downloaded
 - Data_Appendix.pdf – Data appendix describing variables 
-- *code for models
 
 SCRIPTS Folder
 - *code for models 
