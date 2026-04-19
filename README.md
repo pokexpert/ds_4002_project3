@@ -16,11 +16,11 @@
 ## Section 2: Map of Documentation
 DATA Folder
 
-- dataset link - link to the website from which our dataset can be downloaded
+- dataset link - Link to the website from which our dataset can be downloaded
 - Data_Appendix.pdf – Data appendix describing variables 
 
 SCRIPTS Folder
-- *code for models 
+- flower_classification_code.ipynb - Code for exploratory plots and models 
 
 OUTPUT Folder
 - Output.pdf - Document containing all visualizations and table outputs
